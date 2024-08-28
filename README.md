@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-🔭 ¡Hola! Soy Cristian Camilo Osorio, geólogo y ingenierio de sistemas.
+🔭 ¡Hola! Soy Cristian Camilo Osorio, geólogo y ingeniero de sistemas.
 
 🌍 Como geólogo, me apasiona estudiar la Tierra y entender sus procesos.
 
