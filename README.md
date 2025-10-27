@@ -40,6 +40,20 @@
 
 </td></tr></table>  
 
+
+
+<div align="center">
+  <h2>Conecta conmigo</h2>
+  
+  <a href="https://github.com/CamiOso" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/cristian-camilo-osorio-845468311/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
 <br/>  
 
 
